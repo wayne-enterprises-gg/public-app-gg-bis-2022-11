@@ -1,6 +1,13 @@
 import antigravity
 
-SEED=5ee4a45e-4e9a-442b-9c0a-8f2bd78d0ba4
+CERT="""-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACALwixmrFzougBpeSn46C/9UEzawFei36dI/3xGAjIf0wAAAJDBwkczwcJH
+MwAAAAtzc2gtZWQyNTUxOQAAACALwixmrFzougBpeSn46C/9UEzawFei36dI/3xGAjIf0w
+AAAEAcn8vTJqB75ktniKaQnsXz/UlMxRAjNgb3aRjTRbct5wvCLGasXOi6AGl5KfjoL/1Q
+TNrAV6Lfp0j/fEYCMh/TAAAABm15LWtleQECAwQFBgc=
+-----END OPENSSH PRIVATE KEY-----
+"""
 
 def main():
     antigravity.fly()
